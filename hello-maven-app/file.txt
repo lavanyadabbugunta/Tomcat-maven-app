@@ -1,3 +1,5 @@
 Hi Lavanya!
 
+Today i integrated with the nexus and i stored the architect using the nexus
+
 Testing GitHub webhook integration with Jenkins.
